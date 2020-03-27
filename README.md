@@ -14,7 +14,7 @@ The objective of Countdown Timer is to provide a continuously decrementing displ
 **Constraints**
 
 - Use only builtin language functions for your calculations rather than relying on a library or package like [MomentJS](https://momentjs.com/). This assumes, of course, that the language of your choice has adequate date and time manipulation functions built in.
-- You may not use any code generators such as the [Counting Down](https://countingdownto.com/) To site. You should develop your own original implementation.
+- You may not use any code generators such as the [Counting Down To](https://countingdownto.com/) site. You should develop your own original implementation.
 
 **User Stories**
 
